@@ -16,12 +16,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/微信图片_20240524232722.jpg"
   name             : "Wenhua Qi"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Bristol, UK"
+  employer         : 
   uri              : # URL
   email            : "none@example.org" 
 
