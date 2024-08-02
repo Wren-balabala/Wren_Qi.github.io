@@ -7,12 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a postgradute student from School of Economics, University of Bristol.
-
-My interest 
+About Me
 ======
-Labour Economics and Development Economics
+I am currently pursuing my Master's degree in Economics at the University of Bristol. My interest in research was sparked during my sophomore year of undergraduate studies, where I was fortunate to delve into research under the supervision of my mentor. My research interests include, but are not limited to, Labor Economics, Development Economics, and Game Theory. I aspire to pursue a PhD degree in the future, fully aware that the path to a doctorate is often fraught with challenges.
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+At the heart of my current research lies the impact of robots and artificial intelligence (AI) on the economy. I have already made a modest stride in my academic career by publishing a paper in a peer-reviewed journal (ABS3  SSCIQ2). Additionally, I have several working papers that are under review or in progress.
+
+Please feel free to reach out to me for potential collaborations or to exchange ideas and insights. I am looking forward to the opportunity to connect and to jointly navigate the fascinating world of economics.
