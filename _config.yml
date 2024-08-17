@@ -7,7 +7,7 @@ title                    : "Wenhua Qi/ Personal Homepage"
 title_separator          : "-"
 name                     : &name "Wenhua Qi (known as Wren Qi)"
 description              : 
-url                      : https://Wren_Qi.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://Wren_Qi.github.io"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : " wren-balabala.github.io/Wren_Qi.github.io/"
 
@@ -16,7 +16,7 @@ repository               : " wren-balabala.github.io/Wren_Qi.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/微信图片_20240524232722.jpg"
+  avatar           : # "images/微信图片_20240524232722.jpg"
   name             : "Wenhua Qi"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
